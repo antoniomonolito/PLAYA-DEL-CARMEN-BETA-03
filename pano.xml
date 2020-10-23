@@ -74,8 +74,8 @@
     <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
     <control rubberband="0" dblclickfullscreen="0" sensitivity="8" lockedkeyboard="0" contextfullscreen="1" simulatemass="1" lockedkeyboardzoom="0" invertcontrol="1" hideabout="0" lockedmouse="0" invertwheel="0" speedwheel="1" contextprojections="0" lockedwheel="0"/>
   </panorama>
-  <panorama id="node8">
-    <input overlap="1" levelbiashidpi="1.000" height="2000" levelbias="0.400" width="2000" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingroll="0" levelingpitch="0">
+  <panorama id="node10">
+    <input overlap="1" levelbiashidpi="1.000" height="2000" levelbias="0.400" width="2000" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingroll="0" levelingpitch="0">
       <level predecode="0" height="2000" width="2000" preload="0"/>
       <level predecode="0" height="1000" width="1000" preload="0"/>
       <level predecode="1" height="500" width="500" preload="1"/>
@@ -88,7 +88,7 @@
       <max fov="120" fovstereographic="270" tilt="90" fovfisheye="360" scaletofit="1" pan="360"/>
     </view>
     <userdata description="" tags="ACTUALIZACION" customnodeid="" source="" comment="" datetime="23/10/2020 08:41 a. m." title="CANCHAS" latitude="" author="" copyright="" info="" longitude="">
-      <mapcoords y="-0.451975" x="1.97692" mapid="FloorPlan02" y_floorplan_percent="29.3465" x_floorplan_percent="70.2903"/>
+      <mapcoords y="-0.431085" x="1.95033" mapid="FloorPlan02" y_floorplan_percent="27.9901" x_floorplan_percent="69.345"/>
     </userdata>
     <hotspots height="20" width="180" wordwrap="1">
       <label borderalpha="1" borderradius="1" textalpha="1" border="1" height="20" backgroundcolor="0xffffff" background="1" width="180" textcolor="0x000000" backgroundalpha="1" enabled="1" bordercolor="0x000000" wordwrap="1"/>
