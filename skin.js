@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 6.0.4/17319
 // Filename: PLAYA.ggsk
-// Generated 2020-10-23T11:36:43
+// Generated 2020-10-23T11:41:39
 
 function pano2vrSkin(player,base) {
 	player.addVariable('HT_ANI', 2, false);
